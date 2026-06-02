@@ -8,7 +8,7 @@ import App from './App.jsx'
 
 createRoot(document.getElementById("root")).render(
   <React.StrictMode>
-    <BrowserRouter basename="/dc-solar-lithium-site">
+    <BrowserRouter basename="/dc-solar-lithium-site/">
       <App />
     </BrowserRouter>
   </React.StrictMode>,

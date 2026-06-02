@@ -3,7 +3,7 @@
   "private": true,
   "version": "0.0.0",
   "type": "module",
-  "homepage": "https://xenobyte012.github.io/dc-solar-lithium-site",
+  "homepage": "https://xenobyte012.github.io/dc-solar-lithium-site/",
   "scripts": {
     "dev": "vite",
     "build": "vite build",
