@@ -8,7 +8,7 @@ function Footer() {
     {
       name: "WhatsApp",
       icon: FaWhatsapp,
-      url: "https://wa.me/27738715044",
+      url: "https://wa.me/27718884499",
       color: "hover:text-green-400",
     },
     {
@@ -97,7 +97,7 @@ function Footer() {
             <div className="space-y-3 text-gray-300">
               <p>📍 South Africa</p>
 
-              <p>📞 073 871 5044</p>
+              <p>📞 071 888 4499</p>
 
               <p>📧 info@dcsolar.co.za</p>
             </div>

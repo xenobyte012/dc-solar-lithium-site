@@ -147,13 +147,13 @@ function Navbar() {
             Request Free Quote
           </a>
         </div>
-
+ 
         {/* CONTACT INFO */}
         <div className="mt-10 border-t border-white/10 pt-6">
           <p className="text-gray-400 text-sm">Call Us</p>
 
-          <a href="tel:+27738715044" className="text-white font-semibold">
-            073 871 5044
+          <a href="tel:+27718884499" className="text-white font-semibold">
+            071 888 4499
           </a>
         </div>
       </div>

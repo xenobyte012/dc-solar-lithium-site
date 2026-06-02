@@ -18,14 +18,13 @@ export default function Home() {
     <div className="">
       <Navbar />
       <HeroSection />
-      <AboutUs />
       <ServiceSection />
-      <RecentProjects />
       <WhyChooseUs />
-      <FAQ />
+      <AboutUs />
       <HowSolarWorks />
+      <RecentProjects />
+      <FAQ />
       <ContactUs />
-      <Gallary />
       <Footer />
     </div>
   );

@@ -9,7 +9,7 @@ function ContactUs() {
 
   const [loading, setLoading] = useState(false);
 
-  const phoneNumber = "27738715044";
+  const phoneNumber = "27718884499";
 
   const message = "Hello, I am interested in your solar and lithium solutions.";
 
@@ -96,7 +96,7 @@ function ContactUs() {
               <div>
                 <p className="font-semibold text-white text-lg">Call Us</p>
 
-                <p className="text-gray-300">073 871 5044</p>
+                <p className="text-gray-300">071 888 4499</p>
               </div>
             </button>
 
